@@ -1,2 +1,2 @@
 # Monolith-CC-LAB
-Contains modified files for Cloud Computing Lab
+Modified files for Cloud Computing Lab
